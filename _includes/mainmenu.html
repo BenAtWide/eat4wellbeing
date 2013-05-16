@@ -1,0 +1,4 @@
+{% for p in site.main-nav %}
+  <a href="{{ p.url }}" title="{{ p.title }}">
+    <img src="/static/{% if p.url == page.url %}current_{% endif %}{{ p.img }}" alt="{{ p.title }}"></a>
+{% endfor %}

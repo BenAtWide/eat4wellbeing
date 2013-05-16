@@ -1,0 +1,28 @@
+main-nav:
+  - pageid: 1
+    url: /index.html
+    title: Welcome to Eat4Wellbeing
+    img: home_button.jpg
+
+  - pageid: 2
+    url: /who-can-benefit.html
+    title: Who can benefit?
+    img: who_button.jpg
+
+  - pageid: 3
+    url: /about-joanna.html
+    title: About Joanna
+    img: about_button.jpg
+
+  - pageid: 4
+    url: /clinic.html
+    title: The clinic
+    img: clinic_button.jpg
+
+  - pageid: 5
+    url: /contact.html
+    title: Contact us
+    img: contact_button.jpg
+    
+
+htitle: Nutritionist in Brighton

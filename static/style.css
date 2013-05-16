@@ -1,0 +1,94 @@
+/*resets from 960GS*/
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}:focus{outline:0}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse;border-spacing:0}
+/*text settings from 960GS */
+body{font:14px/1.2 Helvetica,Arial,'Liberation Sans',FreeSans,sans-serif}a:focus{outline:1px dotted invert}hr{border:0 #ccc solid;border-top-width:1px;clear:both;height:0}h1{font-size:25px}h2{font-size:23px}h3{font-size:21px}h4{font-size:19px}h5{font-size:17px}h6{font-size:15px}ol{list-style:decimal}ul{list-style:square}li{margin-left:30px}p,dl,hr,h1,h2,h3,h4,h5,h6,ol,ul,pre,table,address,fieldset{margin-bottom:20px}
+
+#header{
+  background:#fff url(main_header.jpg) no-repeat bottom left;
+}
+#header h1 {
+  padding-top:125px;
+  margin-bottom:0;
+  margin-left:20px;
+  padding-bottom:0;
+  font-size: 20px;
+  color:#fff;
+}
+#menu {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  padding-left:6px;
+}
+#menu img{
+  margin-right:22px;
+  float:left;
+  }
+
+#content {
+  background-color:#EAF4E5;
+  padding: 20px 0px 0px 00px;
+  color:#030;
+}
+#content p, #content ul, #content h2, #content h4, table#contact{
+  margin-left: 18px;
+  margin-right: 5px;
+}
+table#contact th {
+  text-align:right;
+  vertical-align:top;
+}
+
+h4 {
+  margin-bottom:15px;
+}
+#content a {
+  color: #EA3E59;
+  text-decoration: none;
+}
+#content li {
+  margin-bottom:8px;
+}
+#siteinfo {
+ background-color: #D6EA99;
+ font: 12px/14px Helvetica, Arial, Sans-serif;
+ color: #070;
+}
+#siteinfo p {
+ margin-top:10px;
+}
+#siteinfo a {
+  color: #030;
+  text-decoration:none;
+}
+table#sitemap {
+  margin-left:18px;
+  margin-bottom: 8px;
+  font: 10px/12px Helvetica, Arial, Sans-serif;
+}
+table#sitemap td {
+  padding-right: 4px;
+}
+.hilite {
+  font: 22px/24px Helvetica, Arial, Sans-serif;
+}
+.divider {
+  text-align:center;
+}
+.right-menu {
+  background-color:#FFAE2C;
+  padding-top:8px;
+  padding-bottom: 5px;
+  margin-bottom: 8px;
+}
+.right-menu a {
+  color: #fff;
+  text-decoration:none;
+}
+.right-menu li{
+  list-style-type:none;
+  margin-bottom:8px;
+  margin-left:10px;
+}
+.right-menu a.current {
+  color: #333;
+}
