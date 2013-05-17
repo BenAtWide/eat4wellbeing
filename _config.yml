@@ -24,5 +24,28 @@ main-nav:
     title: Contact us
     img: contact_button.jpg
     
+clinic-nav:
+  - pageid: 6
+    url: /clinic/consultation.html
+    title: The Consultation
+    
+  - pageid: 7
+    url: /clinic/diagnostic-testing.html
+    title: Diagnostic Testing
+
+  - pageid: 8
+    url: /clinic/testimonials.html
+    title: Testimonials
+
+  - pageid: 9
+    url: /clinic/price-list.html
+    title: Price List
+
+  - pageid: 10
+    url: /clinic/location.html
+    title: Location
+    
+
 
 htitle: Nutritionist in Brighton
+exclude: [tasks]

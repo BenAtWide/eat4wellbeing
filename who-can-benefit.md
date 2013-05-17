@@ -5,6 +5,8 @@ layout: default
 
 ## Who can benefit?
 
+Nutritional Therapy can benefit everyone! Including those wanting support with digestive, cardiovascular or hormonal issues as well those hoping to optimize energy and vitality or achieve weight loss.
+
 > ‘Nutritional Therapy is the application of nutrition science in the promotion of health, peak performance and individual care. Nutritional therapy practitioners use a wide range of tools to assess and identify potential nutritional imbalances and understand how these may contribute to an individual’s symptoms and health concerns. This approach allows them to work with individuals to address nutritional balance and help to support the body towards maintaining health. Nutritional therapy is recognized as a complementary medicine and is relevant for individuals with chronic conditions, as well as those looking for support to enhance their health and wellbeing.
 
 > Practitioners never recommend nutritional therapy as a replacement for medical advice and always refer any client with ‘red flag’ signs or symptoms to their medical professional. They will also frequently work alongside a medical professional and will communicate with other healthcare professionals involved in the client’s care to explain any nutritional programme that has been provided’ **British Association of Nutritional Therapasits (BANT), 2012**

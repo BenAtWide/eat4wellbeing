@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# needs to be executed from site root directory, not tasks dir, or it will delete all the existing files.
+jekyll build && rsync -avz --delete _site/ thinkplate@thinkplate.webfactional.com:/home/thinkplate/webapps/e4wbstatic/

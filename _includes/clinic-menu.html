@@ -1,0 +1,3 @@
+{% for p in site.clinic-nav %}
+<li> <a {% if p.url == page.url %}class="current" {% endif %}href="{{ p.url }}" title="{{ p.title }}">\ {{ p.title }}</a>
+{% endfor %}
