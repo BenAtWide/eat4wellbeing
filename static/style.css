@@ -48,9 +48,14 @@ h4 {
   margin-bottom:15px;
 }
 #content a {
-  color: #EA3E59;
+  color: #4B81C3;
+  text-decoration: underline;
+}
+
+#content h4 a {
   text-decoration: none;
 }
+
 #content li {
   margin-bottom:8px;
 }
