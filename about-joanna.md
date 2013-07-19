@@ -14,7 +14,7 @@ Joanna is  a fully insured member of [The British Association for Nutritional Th
 <br style="clear:left">
 <img style="float:left;margin-right:8px;margin-left:20px" width="190" height="86" src="/static/cnhc.gif">
 
-Joanna is also registered with [The Complementary & Natural Healthcare Council (CNHC)](http://www.cnhc.org.uk) a national voluntary regulator for complementary healthcare practitioners. She also serves as a profession-specific board member for the CNHC. 
+Joanna is also registered with [The Complementary & Natural Healthcare Council (CNHC)](http://www.cnhc.org.uk) a national voluntary regulator for complementary healthcare practitioners.
 
 It is a requirement of all BANT and CNHC registered practitioners to maintain their skills by undertaking Continuing Professional Development (CPD) and Joanna regularly attends lectures & seminars to keep updated of the latest research & developments in nutrition. 
 
